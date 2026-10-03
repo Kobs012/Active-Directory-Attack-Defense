@@ -1,0 +1,11 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local captures / temporary tool output
+*.zip
+*.log
+*.tmp
+*.bak
